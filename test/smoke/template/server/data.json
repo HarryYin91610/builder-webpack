@@ -1,0 +1,59 @@
+{
+	"error": [],
+	"extra": [],
+	"data": {
+		"list": [{
+			"banner_redirect_type": "product",
+			"id": 7617,
+			"banner_utm_term": "banner2102",
+			"extra": {
+				"column_sku": "100048401",
+				"column_type": 1,
+				"product_type": "c1",
+				"column_id": 298,
+				"had_sub": false
+			},
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/92\/92\/92042c4ed46e4303cf8dde7312bbb992.jpg",
+			"banner_redirect_param": "100048401",
+			"banner_title": "3.24第一轮播图-检索技术核心20讲",
+			"score": 5391768935680
+		}, {
+			"banner_utm_term": "banner2103",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/0f\/73\/0f72448018bd140546e2ccc250482073.jpg",
+			"id": 7618,
+			"banner_title": "3.24第二轮播图-打卡行动",
+			"score": 5387473968384,
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "214223"
+		}, {
+			"banner_utm_term": "banner2104",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/7b\/d4\/7b67bceb672be244a3cbf5531e98c7d4.png",
+			"id": 7619,
+			"banner_title": "3.24第三轮播图-程序员的猫",
+			"score": 5383179001088,
+			"banner_redirect_type": "urlscheme",
+			"banner_redirect_param": "time:\/\/hordePostDetail?postId=mbbF9HFpxHr0BIo1qe1wN8K4vYLiX-cwZZHM7Eqn63A"
+		}, {
+			"banner_utm_term": "banner2105",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/a4\/aa\/a4f9bb605efc9476ae12251eb9b6e7aa.png",
+			"id": 7620,
+			"banner_title": "3.24第四轮播图-极客大学",
+			"score": 5378884033792,
+			"banner_redirect_type": "url",
+			"banner_redirect_param": "https:\/\/u.geekbang.org\/subject\/fe\/1000447?utm_source=time_app&utm_medium=banner40324&utm_term=timeappbanner40324"
+		}, {
+			"banner_utm_term": "banner2106",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/5c\/50\/5cce4e1094b27aefd2814a287b554050.png",
+			"id": 7621,
+			"banner_title": "3.24第五轮播图-企业账号",
+			"score": 5374589066496,
+			"banner_redirect_type": "url",
+			"banner_redirect_param": "https:\/\/service.geekbang.org\/article\/214251\/?utm_source=geektime&utm_medium=banner&utm_campaign=316"
+		}],
+		"page": {
+			"count": 5,
+			"more": false
+		}
+	},
+	"code": 0
+}
